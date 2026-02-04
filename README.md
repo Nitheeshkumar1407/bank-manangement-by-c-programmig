@@ -1,1 +1,1 @@
-# bank-manangement-by-c-programmig
+# bank-manangement-by-c-programming
